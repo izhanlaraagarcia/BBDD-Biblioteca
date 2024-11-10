@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+    <libro>
+        <titulo>La sombra del viento</titulo>
+        <autor>Carlos Ruiz Zafón</autor>
+        <categoria>Novela</categoria>
+        <isbn>9788408184243</isbn>
+        <edicion>3</edicion>
+        <promocion>no</promocion>
+        <fecha>2001-06-01</fecha>
+        <portada>portada_1.png</portada>
+    </libro>
+    <libro>
+        <titulo>Cien años de soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <categoria>Clásico</categoria>
+        <isbn>9780307474728</isbn>
+        <edicion>5</edicion>
+        <promocion>si</promocion>
+        <fecha>1967-05-30</fecha>
+        <portada>portada_2.png</portada>
+    </libro>
+    <libro>
+        <titulo>El Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <categoria>Clásico</categoria>
+        <isbn>9788491050395</isbn>
+        <edicion>10</edicion>
+        <promocion>no</promocion>
+        <fecha>1605-01-16</fecha>
+        <portada>portada_3.png</portada>
+    </libro>
+    <libro>
+        <titulo>El Hobbit</titulo>
+        <autor>J.R.R. Tolkien</autor>
+        <categoria>Fantasía</categoria>
+        <isbn>9780618002214</isbn>
+        <edicion>7</edicion>
+        <promocion>si</promocion>
+        <fecha>1937-09-21</fecha>
+        <portada>portada_4.png</portada>
+    </libro>
+    <libro>
+        <titulo>El nombre del viento</titulo>
+        <autor>Patrick Rothfuss</autor>
+        <categoria>Fantasía</categoria>
+        <isbn>9780575081406</isbn>
+        <edicion>4</edicion>
+        <promocion>no</promocion>
+        <fecha>2007-03-27</fecha>
+        <portada>portada_5.png</portada>
+    </libro>
+    <libro>
+        <titulo>Juego de tronos</titulo>
+        <autor>George R.R. Martin</autor>
+        <categoria>Fantasía</categoria>
+        <isbn>9780553573404</isbn>
+        <edicion>8</edicion>
+        <promocion>si</promocion>
+        <fecha>1996-08-06</fecha>
+        <portada>portada_6.png</portada>
+    </libro>
+    <libro>
+        <titulo>Donde los árboles cantan</titulo>
+        <autor>Laura Gallego</autor>
+        <categoria>Juvenil</categoria>
+        <isbn>9788467550030</isbn>
+        <edicion>2</edicion>
+        <promocion>no</promocion>
+        <fecha>2011-10-14</fecha>
+        <portada>portada_7.png</portada>
+    </libro>
+    <libro>
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <categoria>Ciencia Ficción</categoria>
+        <isbn>9780451524935</isbn>
+        <edicion>12</edicion>
+        <promocion>no</promocion>
+        <fecha>1949-06-08</fecha>
+        <portada>portada_8.png</portada>
+    </libro>
+    <libro>
+        <titulo>Fahrenheit 451</titulo>
+        <autor>Ray Bradbury</autor>
+        <categoria>Ciencia Ficción</categoria>
+        <isbn>9781451673319</isbn>
+        <edicion>9</edicion>
+        <promocion>si</promocion>
+        <fecha>1953-10-19</fecha>
+        <portada>portada_9.png</portada>
+    </libro>
+    <libro>
+        <titulo>Crimen y castigo</titulo>
+        <autor>Fiódor Dostoyevski</autor>
+        <categoria>Clásico</categoria>
+        <isbn>9780143058144</isbn>
+        <edicion>11</edicion>
+        <promocion>no</promocion>
+        <fecha>1866-01-15</fecha>
+        <portada>portada_10.png</portada>
+    </libro>
+    <libro>
+        <titulo>La metamorfosis</titulo>
+        <autor>Franz Kafka</autor>
+        <categoria>Clásico</categoria>
+        <isbn>9781557427663</isbn>
+        <edicion>3</edicion>
+        <promocion>no</promocion>
+        <fecha>1915-10-01</fecha>
+        <portada>portada_11.png</portada>
+    </libro>
+    <libro>
+        <titulo>El principito</titulo>
+        <autor>Antoine de Saint-Exupéry</autor>
+        <categoria>Infantil</categoria>
+        <isbn>9780156012195</isbn>
+        <edicion>14</edicion>
+        <promocion>si</promocion>
+        <fecha>1943-04-06</fecha>
+        <portada>portada_12.png</portada>
+    </libro>
+    <libro>
+        <titulo>Drácula</titulo>
+        <autor>Bram Stoker</autor>
+        <categoria>Terror</categoria>
+        <isbn>9780141439471</isbn>
+        <edicion>6</edicion>
+        <promocion>si</promocion>
+        <fecha>1897-05-26</fecha>
+        <portada>portada_13.png</portada>
+    </libro>
+    <libro>
+        <titulo>El retrato de Dorian Gray</titulo>
+        <autor>Oscar Wilde</autor>
+        <categoria>Clásico</categoria>
+        <isbn>9780141439570</isbn>
+        <edicion>5</edicion>
+        <promocion>no</promocion>
+        <fecha>1890-06-20</fecha>
+        <portada>portada_14.png</portada>
+    </libro>
+    <libro>
+        <titulo>El gran Gatsby</titulo>
+        <autor>F. Scott Fitzgerald</autor>
+        <categoria>Clásico</categoria>
+        <isbn>9780743273565</isbn>
+        <edicion>8</edicion>
+        <promocion>si</promocion>
+        <fecha>1925-04-10</fecha>
+        <portada>portada_15.png</portada>
+    </libro>
+    <libro>
+        <titulo>Harry Potter y la piedra filosofal</titulo>
+        <autor>J.K. Rowling</autor>
+        <categoria>Fantasía</categoria>
+        <isbn>9780439708180</isbn>
+        <edicion>15</edicion>
+        <promocion>no</promocion>
+        <fecha>1997-06-26</fecha>
+        <portada>portada_16.png</portada>
+    </libro>
+    <libro>
+        <titulo>Los juegos del hambre</titulo>
+        <autor>Suzanne Collins</autor>
+        <categoria>Juvenil</categoria>
+        <isbn>9780439023481</isbn>
+        <edicion>7</edicion>
+        <promocion>si</promocion>
+        <fecha>2008-09-14</fecha>
+        <portada>portada_17.png</portada>
+    </libro>
+    <libro>
+        <titulo>La ladrona de libros</titulo>
+        <autor>Markus Zusak</autor>
+        <categoria>Histórica</categoria>
+        <isbn>9780375842207</isbn>
+        <edicion>4</edicion>
+        <promocion>no</promocion>
+        <fecha>2005-03-14</fecha>
+        <portada>portada_18.png</portada>
+    </libro>
+    <libro>
+        <titulo>Orgullo y prejuicio</titulo>
+        <autor>Jane Austen</autor>
+        <categoria>Romántica</categoria>
+        <isbn>9780143105429</isbn>
+        <edicion>11</edicion>
+        <promocion>no</promocion>
+        <fecha>1813-01-28</fecha>
+        <portada>portada_19.png</portada>
+    </libro>
+    <libro>
+        <titulo>Los pilares de la tierra</titulo>
+        <autor>Ken Follett</autor>
+        <categoria>Histórica</categoria>
+        <isbn>9780451225246</isbn>
+        <edicion>6</edicion>
+        <promocion>si</promocion>
+        <fecha>1989-09-03</fecha>
+        <portada>portada_20.png</portada>
+    </libro>
+    <libro>
+        <titulo>La chica del tren</titulo>
+        <autor>Paula Hawkins</autor>
+        <categoria>Thriller</categoria>
+        <isbn>9781594634024</isbn>
+        <edicion>5</edicion>
+        <promocion>no</promocion>
+        <fecha>2015-01-13</fecha>
+        <portada>portada_21.png</portada>
+    </libro>
+    <libro>
+        <titulo>El código Da Vinci</titulo>
+        <autor>Dan Brown</autor>
+        <categoria>Misterio</categoria>
+        <isbn>9780307474278</isbn>
+        <edicion>3</edicion>
+        <promocion>si</promocion>
+        <fecha>2003-04-18</fecha>
+        <portada>portada_22.png</portada>
+    </libro>
+    <libro>
+        <titulo>La casa de los espíritus</titulo>
+        <autor>Isabel Allende</autor>
+        <categoria>Realismo Mágico</categoria>
+        <isbn>9780553383805</isbn>
+        <edicion>7</edicion>
+        <promocion>no</promocion>
+        <fecha>1982-10-12</fecha>
+        <portada>portada_23.png</portada>
+    </libro>
+    <libro>
+        <titulo>El señor de las moscas</titulo>
+        <autor>William Golding</autor>
+        <categoria>Clásico</categoria>
+        <isbn>9780399501487</isbn>
+        <edicion>9</edicion>
+        <promocion>si</promocion>
+        <fecha>1954-09-17</fecha>
+        <portada>portada_24.png</portada>
+    </libro>
+    <libro>
+        <titulo>El último deseo</titulo>
+        <autor>Andrzej Sapkowski</autor>
+        <categoria>Fantasía</categoria>
+        <isbn>9780316029186</isbn>
+        <edicion>8</edicion>
+        <promocion>no</promocion>
+        <fecha>1993-10-31</fecha>
+        <portada>portada_25.png</portada>
+    </libro>
+    <libro>
+        <titulo>El juego de Ender</titulo>
+        <autor>Orson Scott Card</autor>
+        <categoria>Ciencia Ficción</categoria>
+        <isbn>9780812550702</isbn>
+        <edicion>10</edicion>
+        <promocion>si</promocion>
+        <fecha>1985-01-15</fecha>
+        <portada>portada_26.png</portada>
+    </libro>
+    <libro>
+        <titulo>El diario de Ana Frank</titulo>
+        <autor>Ana Frank</autor>
+        <categoria>Biografía</categoria>
+        <isbn>9780553296983</isbn>
+        <edicion>13</edicion>
+        <promocion>no</promocion>
+        <fecha>1947-06-25</fecha>
+        <portada>portada_27.png</portada>
+    </libro>
+    <libro>
+        <titulo>La historiadora</titulo>
+        <autor>Elizabeth Kostova</autor>
+        <categoria>Misterio</categoria>
+        <isbn>9780316011778</isbn>
+        <edicion>2</edicion>
+        <promocion>si</promocion>
+        <fecha>2005-07-12</fecha>
+        <portada>portada_28.png</portada>
+    </libro>
+    <libro>
+        <titulo>El asesino de la brújula</titulo>
+        <autor>Jo Nesbø</autor>
+        <categoria>Thriller</categoria>
+        <isbn>9780345807090</isbn>
+        <edicion>6</edicion>
+        <promocion>no</promocion>
+        <fecha>2007-03-12</fecha>
+        <portada>portada_29.png</portada>
+    </libro>
+    <libro>
+        <titulo>La catedral del mar</titulo>
+        <autor>Ildefonso Falcones</autor>
+        <categoria>Histórica</categoria>
+        <isbn>9788408075794</isbn>
+        <edicion>9</edicion>
+        <promocion>no</promocion>
+        <fecha>2006-02-16</fecha>
+        <portada>portada_30.png</portada>
+    </libro>
+    <libro>
+        <titulo>El niño con el pijama de rayas</titulo>
+        <autor>John Boyne</autor>
+        <categoria>Juvenil</categoria>
+        <isbn>9780385751537</isbn>
+        <edicion>5</edicion>
+        <promocion>si</promocion>
+        <fecha>2006-05-05</fecha>
+        <portada>portada_31.png</portada>
+    </libro>
+    <libro>
+        <titulo>Sapiens: De animales a dioses</titulo>
+        <autor>Yuval Noah Harari</autor>
+        <categoria>Historia</categoria>
+        <isbn>9780062316097</isbn>
+        <edicion>7</edicion>
+        <promocion>si</promocion>
+        <fecha>2014-09-04</fecha>
+        <portada>portada_32.png</portada>
+    </libro>
+    <libro>
+        <titulo>El alquimista</titulo>
+        <autor>Paulo Coelho</autor>
+        <categoria>Ficción</categoria>
+        <isbn>9780061122415</isbn>
+        <edicion>15</edicion>
+        <promocion>no</promocion>
+        <fecha>1988-04-29</fecha>
+        <portada>portada_33.png</portada>
+    </libro>
+    <libro>
+        <titulo>Los hombres que no amaban a las mujeres</titulo>
+        <autor>Stieg Larsson</autor>
+        <categoria>Thriller</categoria>
+        <isbn>9780307454546</isbn>
+        <edicion>4</edicion>
+        <promocion>si</promocion>
+        <fecha>2005-08-24</fecha>
+        <portada>portada_34.png</portada>
+    </libro>
+    <libro>
+        <titulo>El invierno del mundo</titulo>
+        <autor>Ken Follett</autor>
+        <categoria>Histórica</categoria>
+        <isbn>9780451419242</isbn>
+        <edicion>6</edicion>
+        <promocion>no</promocion>
+        <fecha>2012-09-18</fecha>
+        <portada>portada_35.png</portada>
+    </libro>
+    <libro>
+        <titulo>El temor de un hombre sabio</titulo>
+        <autor>Patrick Rothfuss</autor>
+        <categoria>Fantasía</categoria>
+        <isbn>9780575081437</isbn>
+        <edicion>3</edicion>
+        <promocion>si</promocion>
+        <fecha>2011-03-01</fecha>
+        <portada>portada_36.png</portada>
+    </libro>
+    <libro>
+        <titulo>El perfume</titulo>
+        <autor>Patrick Süskind</autor>
+        <categoria>Misterio</categoria>
+        <isbn>9780140120837</isbn>
+        <edicion>9</edicion>
+        <promocion>no</promocion>
+        <fecha>1985-02-15</fecha>
+        <portada>portada_37.png</portada>
+    </libro>
+    <libro>
+        <titulo>El cuento de la criada</titulo>
+        <autor>Margaret Atwood</autor>
+        <categoria>Ciencia Ficción</categoria>
+        <isbn>9780385490810</isbn>
+        <edicion>7</edicion>
+        <promocion>si</promocion>
+        <fecha>1985-09-22</fecha>
+        <portada>portada_38.png</portada>
+    </libro>
+    <libro>
+        <titulo>Las aventuras de Sherlock Holmes</titulo>
+        <autor>Arthur Conan Doyle</autor>
+        <categoria>Misterio</categoria>
+        <isbn>9780141034355</isbn>
+        <edicion>13</edicion>
+        <promocion>no</promocion>
+        <fecha>1892-10-14</fecha>
+        <portada>portada_39.png</portada>
+    </libro>
+    <libro>
+        <titulo>Los miserables</titulo>
+        <autor>Victor Hugo</autor>
+        <categoria>Clásico</categoria>
+        <isbn>9780375407482</isbn>
+        <edicion>11</edicion>
+        <promocion>no</promocion>
+        <fecha>1862-04-03</fecha>
+        <portada>portada_40.png</portada>
+    </libro>
+    <libro>
+        <titulo>El silencio de los corderos</titulo>
+        <autor>Thomas Harris</autor>
+        <categoria>Thriller</categoria>
+        <isbn>9780312924584</isbn>
+        <edicion>8</edicion>
+        <promocion>si</promocion>
+        <fecha>1988-05-17</fecha>
+        <portada>portada_41.png</portada>
+    </libro>
+    <libro>
+        <titulo>La carretera</titulo>
+        <autor>Cormac McCarthy</autor>
+        <categoria>Ficción</categoria>
+        <isbn>9780307387899</isbn>
+        <edicion>5</edicion>
+        <promocion>no</promocion>
+        <fecha>2006-09-26</fecha>
+        <portada>portada_42.png</portada>
+    </libro>
+    <libro>
+        <titulo>El jilguero</titulo>
+        <autor>Donna Tartt</autor>
+        <categoria>Ficción</categoria>
+        <isbn>9780316055437</isbn>
+        <edicion>7</edicion>
+        <promocion>si</promocion>
+        <fecha>2013-10-22</fecha>
+        <portada>portada_43.png</portada>
+    </libro>
+    <libro>
+        <titulo>It</titulo>
+        <autor>Stephen King</autor>
+        <categoria>Terror</categoria>
+        <isbn>9780451169518</isbn>
+        <edicion>15</edicion>
+        <promocion>no</promocion>
+        <fecha>1986-09-15</fecha>
+        <portada>portada_44.png</portada>
+    </libro>
+    <libro>
+        <titulo>La torre oscura</titulo>
+        <autor>Stephen King</autor>
+        <categoria>Fantasía</categoria>
+        <isbn>9780452284692</isbn>
+        <edicion>6</edicion>
+        <promocion>si</promocion>
+        <fecha>1982-06-10</fecha>
+        <portada>portada_45.png</portada>
+    </libro>
+    <libro>
+        <titulo>El guardián entre el centeno</titulo>
+        <autor>J.D. Salinger</autor>
+        <categoria>Ficción</categoria>
+        <isbn>9780316769488</isbn>
+        <edicion>11</edicion>
+        <promocion>no</promocion>
+        <fecha>1951-07-16</fecha>
+        <portada>portada_46.png</portada>
+    </libro>
+    <libro>
+        <titulo>La danza de dragones</titulo>
+        <autor>George R.R. Martin</autor>
+        <categoria>Fantasía</categoria>
+        <isbn>9780553582017</isbn>
+        <edicion>10</edicion>
+        <promocion>si</promocion>
+        <fecha>2011-07-12</fecha>
+        <portada>portada_47.png</portada>
+    </libro>
+    <libro>
+        <titulo>El ladrón del rayo</titulo>
+        <autor>Rick Riordan</autor>
+        <categoria>Juvenil</categoria>
+        <isbn>9780786838653</isbn>
+        <edicion>4</edicion>
+        <promocion>no</promocion>
+        <fecha>2005-06-28</fecha>
+        <portada>portada_48.png</portada>
+    </libro>
+    <libro>
+        <titulo>El marciano</titulo>
+        <autor>Andy Weir</autor>
+        <categoria>Ciencia Ficción</categoria>
+        <isbn>9780804139021</isbn>
+        <edicion>5</edicion>
+        <promocion>si</promocion>
+        <fecha>2011-02-11</fecha>
+        <portada>portada_49.png</portada>
+    </libro>
+    <libro>
+        <titulo>La isla del tesoro</titulo>
+        <autor>Robert Louis Stevenson</autor>
+        <categoria>Clásico</categoria>
+        <isbn>9780451530974</isbn>
+        <edicion>9</edicion>
+        <promocion>no</promocion>
+        <fecha>1883-11-14</fecha>
+        <portada>portada_50.png</portada>
+    </libro>
+</libros>
