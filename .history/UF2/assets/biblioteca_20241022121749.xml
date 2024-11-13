@@ -1,0 +1,17 @@
+<libros>
+    <libro>
+        <titulo>El Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <categoria>Clásico</categoria>
+        <portada>1.png</portada>
+        <promocion>true</promocion>
+    </libro>
+    <libro>
+        <titulo>Cien Años de Soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <categoria>Ficción</categoria>
+        <portada>2.png</portada>
+        <promocion>false</promocion>
+    </libro>
+    <!-- Añadir más libros -->
+</libros>
